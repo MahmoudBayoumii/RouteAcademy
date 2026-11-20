@@ -1,0 +1,21 @@
+Q1-C
+Q2-A
+Q3-B
+Q4-C
+Q5-C
+Q6-B
+Q7-C
+Q8-20
+Q9-5 then 6
+Q10-6 then 6
+Q11-3 then 1
+Q12-true
+Q13-13
+Q14-22
+Q15-12
+Q16-B
+Q17-B
+Q18-C
+
+Bonus
+sum is 30
